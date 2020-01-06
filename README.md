@@ -2,4 +2,4 @@
 here goes nothing
 <p>Hey, I'm learning how to code</p>
 <strong>Happy New Year</strong>
-<p style="color:#ff471a;">Blue is not my favorite color.</p>
+<p style="color:blue;">The sky is really blue today.</p>
